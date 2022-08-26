@@ -7,3 +7,5 @@
   * [ScutiRP Server](https://github.com/QGarot/scutirp-server)
     * Discord : https://discord.gg/s6fQAPt
     * Visibilité : Privé
+  * [Scuti Python Server](https://github.com/QGarot/scuti-server-python)
+    * Visibilité : Public
