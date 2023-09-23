@@ -1,10 +1,9 @@
 ## Quentin GAROT 👋
 
 * :round_pushpin: France
-* :ledger: Etudiant en CPGE (MPSI/MP, option informatique)
-* :computer: Langages utilisés : **Java Ocaml Python JavaScript**
-* :file_folder: Projets en cours :
+* :mortar_board: Etudiant à l'Institut National des Sciences Appliquées de Rouen
+* :mailbox_with_mail: Contact : quentin.garot@insa-rouen.fr
+* :orange_book: Discord : t1g3rr
+* :mag_right: Dernier projet réalisé :
   * [TIPE - La ville](https://github.com/QGarot/tipe-la-ville)
-  * [Scuti server (oldschool version)]()
-    * Discord : https://discord.gg/s6fQAPt
-    * Visibilité : Privé
+* :bookmark_tabs: Curriculum vitæ : [CV.pdf](https://github.com/QGarot/QGarot/blob/main/CV.pdf)
