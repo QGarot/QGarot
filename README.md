@@ -1,5 +1,3 @@
-# Quentin GAROT 👋
-
 ### Latest projects
 - [Méthode du gradient conjugué avec préconditionnement SSOR (Symmetric Successive Over-Relaxation)](https://github.com/QGarot/grad-conj)
 - [TIPE - La ville](https://github.com/QGarot/tipe-la-ville)
