@@ -1,6 +1,6 @@
 ### Latest projects
-- [Méthode du gradient conjugué avec préconditionnement SSOR (Symmetric Successive Over-Relaxation)](https://github.com/QGarot/grad-conj)
-- [TIPE - La ville](https://github.com/QGarot/tipe-la-ville)
+- [Conjugate gradient method & SSOR preconditioner (Symmetric Successive Over-Relaxation)](https://github.com/QGarot/grad-conj)
+- [Supraways - fly in your city](https://github.com/QGarot/tipe-la-ville)
 
 ### Latest main contributions
 - [Scuti server](https://github.com/QGarot/scuti-server)
