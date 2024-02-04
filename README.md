@@ -1,5 +1,6 @@
 ### Latest projects
 - [Conjugate gradient method & SSOR preconditioner (Symmetric Successive Over-Relaxation)](https://github.com/QGarot/grad-conj)
+- [Graph laplacian](https://github.com/QGarot/laplacien-graphe)
 - [Supraways - fly in your city](https://github.com/QGarot/tipe-la-ville)
 
 ### Latest main contributions
